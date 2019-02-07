@@ -1,4 +1,4 @@
-# KelleyBlueBookDashboard
+# Kelley Blue Book Interactive B2B Data Analysis Dashboard
 
 This repository containts my work during my Internship at Kelley Blue Book (Tech Mahindra) in the Summer of 2018. Find a demo of the product I built at: https://bit.ly/2BjWc6j
 
